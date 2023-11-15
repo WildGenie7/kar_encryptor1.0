@@ -11,3 +11,5 @@ To decrypt you need .encrypt file and private key <br />
 1.Choose file to decrypt <br />
 2.Choose private key <br />
 3.Thats all! <br />
+
+To use the program you have to download icon and put in the same folder as program.
